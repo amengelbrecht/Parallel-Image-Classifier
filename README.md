@@ -1,2 +1,2 @@
 # Recyling-Classifier
-Classify waste materials by recycling type.
+Classify images with a parallel convolutional network.
